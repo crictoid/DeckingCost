@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+C:\Users\mdbul\source\repos\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+C:\Users\mdbul\source\repos\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+C:\Users\mdbul\source\repos\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+C:\Users\mdbul\source\repos\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb
